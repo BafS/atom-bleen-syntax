@@ -1,0 +1,15 @@
+{
+  "name": "bleen-syntax",
+  "theme": "syntax",
+  "version": "0.0.1",
+  "description": "A deep green & blue syntax theme",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/bafs/bleen-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
